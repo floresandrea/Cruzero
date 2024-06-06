@@ -2,8 +2,9 @@
 
 Cruzero lets you plan your bus trips anywhere in the city.
 
-> [!NOTE]
-It is optional to share your location on the Cruzero website.
+```
+💡 It is optional to share your location on the Cruzero website.
+```
 
 ## Bus route calculation
 
@@ -15,20 +16,21 @@ Bus trip? Cruzero helps you to discover the best route to save you time.
 
 3. Move around the map to place the location pin in your desired starting point.
 
-> [!TIP]
-> If you have your location on, you can automatically place the location pin.
+```
+💡 If you have your location on, you can automatically place the location pin.
+```
 
-4. Click on the location pin to confirm your starting point.
+1. Click on the location pin to confirm your starting point.
 
-5. Click on the **Destination** field to display the second location pin.
+2. Click on the **Destination** field to display the second location pin.
 
-6. Move around the map to place the second location pin in your desired destination point.
+3. Move around the map to place the second location pin in your desired destination point.
 
-7. Click on the location pin to confirm your destination point.
+4. Click on the location pin to confirm your destination point.
 
-8. Select **Bus** from the mobility list options.
+5. Select **Bus** from the mobility list options.
 
-9. Select any suggested route from the side panel to visualize it on the map. Your will usually get several route suggestions to choose from.
+6. Select any suggested route from the side panel to visualize it on the map. Your will usually get several route suggestions to choose from.
 
 >📝 For each route suggestion, you can see the estimated total duration time and the number of transfers.
 
@@ -49,8 +51,9 @@ This option lets you know the buses that stop near your current or desired locat
 ## Routes
 You can view the full route from any mobility options available.
 
-> [!WARNING]
-Only bus routes are currently available.
+```
+❗ Only bus routes are currently available.
+```
 
 1. Select **Routes** from the menu.
 
@@ -58,7 +61,7 @@ Only bus routes are currently available.
 
 3. From the side panel, you can select any bus line to view its full route on the map.
 
->For each option, you can see the bus frequency and service hours.
+>📝 For each option, you can see the bus frequency and service hours.
 
 ## Places
 
@@ -70,7 +73,7 @@ Let you know the location of a point of interest, public buildings or universiti
 
 3. Select an option from the list. A location pin will be displayed on the map.
 
->For each option, you can also see the point of interest's opening hours and socials.
+> 📝 For each option, you can also see the point of interest's opening hours and socials.
 
 4. If you want to calculate the best route to get to the location, select the location pin to view the option **Directions**. 
 
